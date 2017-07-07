@@ -4,3 +4,4 @@
 - boosting：GBDT/Adaboost/XGBoost
 - voting
 - stacking
+- SVM
